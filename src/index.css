@@ -8,6 +8,47 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: source-code-pro, Menlo, Minput;
+      border-radius: 5px;
+  }
+
+  h5{
+    margin:15px;
+  }
+  input[type="submit"]{
+    background-color: greenyellow;
+    padding: 0px 20px 0px 20px;
+  }
+  button{
+    background-color:red;
+    color:white;
+    padding:2px;
+    border-radius: 3px;
+  }
+
+input{
+  border-radius: 5px;
+  padding:10px;
+}
+h5{
+  margin:15px;
+}
+input[type="submit"]{
+  background-color: pink;
+  padding: 0px 20px 0px 20px;
+  padding:8px;
+}
+button{
+  background-color:red;
+  color:white;
+  padding:2px;
+  border-radius: 3px;
+}
+.Link{
+  background-color: aqua;
+  color:blueviolet;
+  padding:5px;
+}
+body{
+  font-family:Tahoma;
 }
